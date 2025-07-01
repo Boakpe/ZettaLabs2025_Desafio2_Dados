@@ -56,8 +56,8 @@ Para executar o projeto e o dashboard interativo em sua máquina local, siga os 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/Boakpe/ZettaLab2025_Dasafio1_Dados.git
-    cd ZettaLab2025_Dasafio1_Dados
+    git clone https://github.com/Boakpe/ZettaLabs2025_Desafio2_Dados
+    cd ZettaLabs2025_Desafio2_Dados
     ```
 
 2.  **Crie e ative um ambiente virtual (recomendado):**
@@ -81,12 +81,6 @@ Para executar o projeto e o dashboard interativo em sua máquina local, siga os 
     O dashboard será aberto em seu navegador padrão.
 
 **Observação:** O projeto foi desenvolvido e testado com Python 3.10+.
-
-## Sobre as Etapas do Projeto
-
-1.  **Processamento de Dados (ETL):** Os dados brutos, localizados na pasta `data/`, foram processados e limpos usando Jupyter Notebooks (`notebooks/1_ETL_Dados/`). O notebook `integracao.ipynb` consolida todas as fontes em um dataset final.
-2.  **Modelagem Preditiva:** Na pasta `notebooks/2_Modelagem/`, o notebook `doencas_respiratorias.ipynb` trata os novos dados de saúde. Em seguida, `train_models.ipynb` executa a engenharia de features, a otimização de hiperparâmetros (com Optuna) e o treinamento dos quatro modelos LightGBM, salvando os artefatos finais na pasta `models/`.
-3.  **Visualização e Análise:** O `dashboard2.py` carrega os modelos salvos e os dados processados para fornecer uma plataforma interativa de visualização de previsões, análise de cenários e interpretação dos fatores de influência (SHAP).
 
 ## Relatórios
 

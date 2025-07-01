@@ -2,7 +2,7 @@
 
 **Zetta Lab 2025 - Desafio II: Ciência e Governança de Dados** \
 **Autor(a):** Breno Carvalho Pedroso \
-<img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' alt="GitHub Logo" width="25" style="vertical-align: middle; margin-right: 5px;"> Repositório do Projeto (contém Notebooks, Dados, Modelos e Dashboard): [https://github.com/Boakpe/ZettaLab2025_Dasafio1_Dados](https://github.com/Boakpe/ZettaLab2025_Dasafio1_Dados)
+<img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' alt="GitHub Logo" width="25" style="vertical-align: middle; margin-right: 5px;"> Repositório do Projeto (contém Notebooks, Dados, Modelos e Dashboard): [https://github.com/Boakpe/ZettaLabs2025_Desafio2_Dados](https://github.com/Boakpe/ZettaLabs2025_Desafio2_Dados)
 
 ### 1. Introdução
 
