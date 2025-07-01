@@ -6,7 +6,7 @@ Este repositório contém a solução completa para os **Desafios I e II** do Ze
 
 Você pode acessar o dashboard interativo, que inclui as previsões dos modelos, diretamente no Streamlit Cloud através do seguinte link:
 
-➡️ **[Acessar Dashboard](https://boakpe-zettalab2025-dasafio1-dados-dashboard2-09cv3g.streamlit.app/)** ⬅️ 
+➡️ **[Acessar Dashboard](https://boakpe-zettalab2025-desafio2-dados-dashboard.streamlit.app/)** ⬅️ 
 *(Link atualizado para o novo dashboard, se aplicável, ou mantenha o antigo se foi atualizado no mesmo link)*
 
 Alternativamente, siga as instruções abaixo para executá-lo localmente.
